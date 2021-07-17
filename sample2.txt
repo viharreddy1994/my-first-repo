@@ -1,2 +1,5 @@
 this is second sample txt and used to 
 check the staging area and how to restore
+
+
+changes added after commit1
